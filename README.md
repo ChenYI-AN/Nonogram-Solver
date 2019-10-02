@@ -2,7 +2,7 @@
 ● 什麼是Nonogram：<br>
 ![image](https://i.imgur.com/F6jycBW.png)<br>
 Nonogram是一種圖像遊戲，行列的數字代表圖像中那行(列)黑點的依序數量，<br>
-玩家要依靠那些提示完成圖片<br>
+玩家要依靠那些提示畫出實際圖片<br>
 <br>
 ● 程式內容：<br>
 研究相關論文中的內容理論實作出解題程式，<br>
